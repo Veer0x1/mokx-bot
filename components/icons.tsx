@@ -5,7 +5,7 @@ import {
   SunMedium,
   Twitter,
   ArrowDown,
-  PlusIcon,
+  Plus,
   StopCircle,
   RefreshCw,
   type Icon as LucideIcon,
@@ -15,7 +15,7 @@ export type Icon = LucideIcon
 
 export const Icons = {
   ArrowDown: ArrowDown,
-  PlusIcon: PlusIcon,
+  PlusIcon: Plus,
   sun: SunMedium,
   moon: Moon,
   twitter: Twitter,
